@@ -1,4 +1,4 @@
-Tube Fusion
+
 Tube Fusion is a video browsing and viewing platform built using React JS and Material UI 5, leveraging the power of RapidAPI for data fetching. This project aims to provide a rich, responsive user interface and smooth user experience for video content.
 
 Search for Videos: Easily find videos by entering keywords in the search bar.
